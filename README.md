@@ -1,7 +1,6 @@
 # 🎮 Tic Tac Toe - Python Terminal Game
 
-A simple and interactive **Tic Tac Toe** game built with Python.  
-The game runs in the terminal and supports two players taking turns.
+A simple and interactive **Tic Tac Toe** game built with Python. The game runs in the terminal and supports two players taking turns.
 
 ## 🚀 Features
 
@@ -23,16 +22,16 @@ The game runs in the terminal and supports two players taking turns.
 
 ## 📥 Installation
 
-Clone the repository:
+### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Tic-Tac-Toe.git
+git clone https://github.com/Mostafa-Makram/Tic-Tac-Toc_X_O_Game.git
 ```
 
-Navigate to the project directory:
+### 2. Navigate to the Project Directory
 
 ```bash
-cd Tic-Tac-Toe
+cd Tic-Tac-Toc_X_O_Game
 ```
 
 ## ▶️ How to Run
@@ -65,7 +64,7 @@ python tic_tac_toe.py
 ## 📂 Project Structure
 
 ```text
-Tic-Tac-Toe/
+Tic-Tac-Toc_X_O_Game/
 │
 ├── tic_tac_toe.py
 └── README.md
@@ -73,9 +72,12 @@ Tic-Tac-Toe/
 
 ## 👨‍💻 Author
 
-Created as a Python practice project to improve programming and problem-solving skills.
+**Mostafa Makram**
+
+[GitHub Profile](https://github.com/Mostafa-Makram)
+
+[Project Repository](https://github.com/Mostafa-Makram/Tic-Tac-Toc_X_O_Game)
 
 ---
 
-⭐ If you like this project, feel free to star the repository!# Tic-Tac-Toc_X_O_Game
-A simple two-player Tic Tac Toe game built with Python, featuring an interactive terminal interface, win and draw detection, input validation, and replay functionality.
+⭐ If you like this project, feel free to star the repository!
